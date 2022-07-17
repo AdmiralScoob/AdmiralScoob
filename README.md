@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Reading, Technology, Roblox, and Roblox Studio.
 - 🌱 I’m currently learning: Coding with Lua in Roblox Studio.
 - 💞️ I’m looking to collaborate on: Nothing right now.
-- 📫 How to reach me: Discord, my username and tag is AdmiralScoob#7164.
+- 📫 How to reach me: Discord, my username and tag is AdmiralScoob#YT7164.
 
 <!---
 Scubydubydu/Scubydubydu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
