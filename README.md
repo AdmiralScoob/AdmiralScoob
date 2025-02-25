@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Scoob
-- 👀 I’m interested in C++ and JS
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Nothing at the moment.
-- 📫 You can reach me on discord at thatguyscoob
+- 👀 I’m interested in Lua and 3D Modelling on Roblox.
+- 🌱 I’m currently learning HTML, JS, and CSS.
+- 📫 You can reach me on discord at [thatguyscoob](https://discord.com/users/789065909373370370)
