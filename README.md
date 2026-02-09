@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Scoob
-- 👀 I’m interested in Lua and 3D Modelling.
-- 🌱 I’m currently learning [HTML, CSS](https://html.com/), and [JS](https://www.javascript.com/).
-- 📫 You can reach me on discord at [thatguyscoob](https://discord.com/users/789065909373370370)
+Hi, I’m Scoob! You can reach me on discord at [thatguyscoob](https://discord.com/users/789065909373370370).
